@@ -1,0 +1,11 @@
+private-evidence/
+drafts/
+*.docx
+*.xlsx
+*.zip
+*.mp3
+*.m4a
+*.wav
+*.mp4
+.DS_Store
+Thumbs.db
